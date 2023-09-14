@@ -1,0 +1,3 @@
+123+cascac+A+123.46
+true
+abcEmployee(name=小王, sex=男, salary=20000, bonus=25000, info=null)wncwnenclmclkm
